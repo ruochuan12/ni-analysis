@@ -70,7 +70,6 @@ theme: smartblue
 
 ![命令测试图示](./images/terminal-debugger-v2.png)
 
-
 假设项目目录下没有锁文件，默认就会让用户从`npm、yarn、pnpm`选择，然后执行相应的命令。
 但如果在`~/.nirc`文件中，设置了全局默认的配置，则使用默认配置执行对应命令。
 
@@ -114,8 +113,6 @@ npm i -g @antfu/ni
 如果全局安装遭遇冲突，我们可以加上 `--force` 参数强制安装。
 
 举几个常用的例子。
-
-![命令测试图示](./images/terminal-debugger.png)
 
 ### 3.1 ni - install
 
