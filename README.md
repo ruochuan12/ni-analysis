@@ -36,7 +36,6 @@ theme: smartblue
 4. 等等
 ```
 
-
 ## 2. 原理
 
 [github 仓库 ni#how](https://github.com/antfu/ni#how)
@@ -180,7 +179,7 @@ pnpm i
 # 当然也可以直接用 ni
 
 # 或者克隆官方仓库
-git clone https://github.com/vuejs/ni.git
+git clone https://github.com/antfu/ni.git
 cd ni
 # npm i -g pnpm
 # 安装依赖
